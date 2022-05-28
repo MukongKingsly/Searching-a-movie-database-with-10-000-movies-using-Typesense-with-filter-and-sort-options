@@ -1,5 +1,4 @@
 import React from "react";
-import { Highlight } from "react-instantsearch-dom";
 import styled from "styled-components";
 import MovieHighlight from "../movieHighlight";
 
